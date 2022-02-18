@@ -1,0 +1,4 @@
+Part 1 - Observations
+1. Northern Hemisphere - Max Temp vs. Latitude Linear Regression - There is a fairly strong negative relationship here.
+2. Southern Hemisphere - Max Temp vs. Latitude Linear Regression - There is a weak and negative relationship here.
+3. Southern Hemisphere - Humidity (%) vs. Latitude Linear Regression - There is a decent positive correlation here.
